@@ -1,0 +1,1 @@
+mov_test_long.rar is the MovingMNIST test set containing 5000 long sequences. Each sequence consists of 40 consecutive images, with the first 10 images being used to predict the next 30. This dataset can be used to test the long-term temporal prediction ability of the model.
